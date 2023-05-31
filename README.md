@@ -1,6 +1,6 @@
 # Experiment-6---Heart-attack-prediction-using-MLP
-## Aim:
-      To construct a  Multi-Layer Perceptron to predict heart attack using Python
+## Aim: 
+To construct a  Multi-Layer Perceptron to predict heart attack using Python
 ## Algorithm:
 Step 1:Import the required libraries: numpy, pandas, MLPClassifier, train_test_split, StandardScaler, accuracy_score, and matplotlib.pyplot.<br>
 Step 2:Load the heart disease dataset from a file using pd.read_csv().<br>
@@ -58,6 +58,6 @@ plt.show()
 ![image](https://github.com/Lakshmipriya-P-AI/Experiment-6---Heart-attack-prediction-using-MLP/assets/93427923/0b385852-76f4-4903-9195-c9c964343136)
 
 ## Result:
-     Thus, an ANN with MLP is constructed and trained to predict the heart attack using python.
+Thus, an ANN with MLP is constructed and trained to predict the heart attack using python.
      
 
